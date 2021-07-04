@@ -1,5 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-  background-color: #1F2233;
+    background-color: #1F2233;
 }
 
 .col-3 {
@@ -12,6 +17,7 @@ input[type="text"], textarea  {
     font: 15px/24px "Lato", Arial, sans-serif;
     color: #333;
     width: 100%;
+    margin-top: 25px;
     box-sizing: border-box;
     letter-spacing: 1px;
 }
@@ -65,7 +71,6 @@ input[type="text"], textarea  {
     top: 9px;
     color: #aaa;
     transition: 0.3s;
-    z-index: -1;
     letter-spacing: 0.5px;
 }
 
