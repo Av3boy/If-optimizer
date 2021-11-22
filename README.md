@@ -10,9 +10,10 @@ Add Functionaliity for
 Handle Conditional operator
 https://docs.microsoft.com/en-us/cpp/cpp/conditional-operator-q?view=msvc-170
 
-If (with brackets)
-If (without brackets)
-If (Returns a value from method)
+If (with brackets)  
+If (without brackets)  
+If (Returns a value from method) 
+If statement latter parentheses amy be on another line
 
 Value tuples
 
