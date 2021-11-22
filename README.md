@@ -25,3 +25,9 @@ Else (without brackets)
 
 Else If (without brackets)
 Else If (with brackets)
+
+Language Version select support
+
+## References
+
+http://dontcodetired.com/blog/post/Whats-New-in-C-10-Reclaim-Horizontal-Editing-Space-and-Simplify-Nesting
