@@ -1,7 +1,13 @@
 # If-optimizer
-input code as text and optimzer will clean your code
+Input your source code as text and If-Optimzer will cleanup your code!
 
 ## TODO
+
+Categorize refactoring and optimizational functionalities
+
+Refactoring functionalities
+
+Optimization functionalities
 
 Add Functionality for
 - C#
@@ -15,7 +21,7 @@ Check block root. block return type
 
 If (with brackets)  
 If (without brackets)  
-If (Returns a value from method) 
+If (Returns a value from method)  
 If statement latter parentheses may be on another line
 
 Value tuples
@@ -27,6 +33,8 @@ nullish coalescing
 [monadish transformations](https://youtu.be/C2w45qRc3aU?t=255)
 
 optional chaining
+
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
 
 Ternary Operator (?:)
 
